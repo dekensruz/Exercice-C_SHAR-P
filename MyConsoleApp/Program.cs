@@ -34,22 +34,35 @@
 
 using System.Runtime.CompilerServices;
 
-string firstName;
-firstName = "Dekens";
-Console.WriteLine(firstName);
-string lastName;
-lastName = "Ruzuba";
-Console.Write(firstName);
-Console.WriteLine(lastName);
+// string firstName;
+// firstName = "Dekens";
+// Console.WriteLine(firstName);
+// string lastName;
+// lastName = "Ruzuba";
+// Console.Write(firstName);
+// Console.WriteLine(lastName);
 
-var message = "Hello World";
+// var message = "Hello World";
 
-Console.WriteLine(message);
+// Console.WriteLine(message);
 
 
-// Exercice
-string nom = "Bob";
-int nbreMessages = 3;
-decimal temperature = 34.40m;
+// // Exercice
+// string nom = "Bob";
+// int nbreMessages = 3;
+// decimal temperature = 34.40m;
 
-Console.WriteLine("Salut, " + nom + "! " + "vous avez " + nbreMessages +  " messages dans votre boîte de réception. " + "La température est de " + temperature + " dégré celcius" );
+// Console.WriteLine("Salut, " + nom + "! " + "vous avez " + nbreMessages +  " messages dans votre boîte de réception. " + "La température est de " + temperature + " dégré celcius" );
+
+//COMBINER LES CHAINES DE CARACTERES
+// Console.WriteLine("Hello\nWorld");
+// Console.WriteLine("Hello\tWorld");
+// Console.WriteLine("Hello \"World\"!");
+// Console.WriteLine("\\");
+
+// Console.WriteLine("Generating invoices for customer \"Contos corp\" .... \n");
+// Console.WriteLine("Invoice : 1021\t Complete");
+// Console.WriteLine("Invoice : 1022\t Complete \n");
+// Console.WriteLine("\nOutpour directory:\t");
+
+

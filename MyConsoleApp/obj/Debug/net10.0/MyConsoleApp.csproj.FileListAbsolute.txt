@@ -1,0 +1,15 @@
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+D:\Logiciels\Projets\Learning\EXERCICE-C_SHAR-P\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
