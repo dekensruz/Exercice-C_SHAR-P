@@ -111,7 +111,23 @@ using System.Runtime.CompilerServices;
 
 // OPERATIONS
 
-int firstNumber = 10;
-int secondNumber = 11;
+// int firstNumber = 10;
+// int secondNumber = 11;
 
-Console.WriteLine(firstNumber + secondNumber);
+// Console.WriteLine(firstNumber + secondNumber);
+
+// string firstName = "Dekens";
+// int widgetSold = 7;
+// Console.WriteLine(firstName + " sold " + (widgetSold + 7) + " widgets.");
+
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+decimal decimalQuotient = 7m/5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
+Console.WriteLine($"Quotient décimal : {decimalQuotient}");
