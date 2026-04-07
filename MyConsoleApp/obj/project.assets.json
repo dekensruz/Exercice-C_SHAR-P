@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Logiciels\\Projets\\Learning\\EXERCICE-C_SHAR-P\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "D:\\Learning\\C#\\Exercice-C_SHAR-P\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "D:\\Logiciels\\Projets\\Learning\\EXERCICE-C_SHAR-P\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "D:\\Learning\\C#\\Exercice-C_SHAR-P\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Dek\\.nuget\\packages\\",
-      "outputPath": "D:\\Logiciels\\Projets\\Learning\\EXERCICE-C_SHAR-P\\MyConsoleApp\\obj\\",
+      "outputPath": "D:\\Learning\\C#\\Exercice-C_SHAR-P\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

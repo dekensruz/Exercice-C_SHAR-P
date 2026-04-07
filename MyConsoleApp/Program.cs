@@ -96,12 +96,22 @@ using System.Runtime.CompilerServices;
 // string projectName= "IsigCommunity";
 // Console.WriteLine(@$"C:\Projects\{projectName}\Data");
 
-string englishMessage = "View English outpout";
-string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
-string projectName = "ACME";
-string outpout =@$"c:\Exerices\{projectName}\data.txt";
+// string englishMessage = "View English outpout";
+// string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+// string projectName = "ACME";
+// string outpout =@$"c:\Exerices\{projectName}\data.txt";
 
-Console.WriteLine(englishMessage);
-Console.WriteLine(outpout + "\n");
-Console.WriteLine(russianMessage);
-Console.WriteLine(outpout);
+// Console.WriteLine(englishMessage);
+// Console.WriteLine(outpout + "\n");
+// Console.WriteLine(russianMessage);
+// Console.WriteLine(outpout);
+
+
+// Console.WriteLine('directory = directory + @"\";');
+
+// OPERATIONS
+
+int firstNumber = 10;
+int secondNumber = 11;
+
+Console.WriteLine(firstNumber + secondNumber);
